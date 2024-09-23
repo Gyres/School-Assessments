@@ -13,6 +13,7 @@ As part of the team, I was responsible for conducting the descriptive data analy
 - Box plots
 - Scatter plots
 - Summary tables
+
 The analysis was performed using R.
 
 ## Implementation
