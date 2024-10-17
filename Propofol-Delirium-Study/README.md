@@ -53,7 +53,7 @@ install.packages(c("tidyverse", "skimr", "ggplot2"))
 **Instructions:**
 1. Access [Descriptive-Analysis-Propofol-Delirium.md](Descriptive-Analysis-Propofol-Delirium.md) to view the pre-run analysis.
 
-  or
+    or
 
 2. Open the R Markdown file (`Descriptive-Analysis-Propofol-Delirium.rmd`) in RStudio.
 3. Run the code chunks to execute the descriptive analysis and generate visualizations.
@@ -88,7 +88,8 @@ The dataset, `cohort_w_confounders.csv`, was extracted and modified from the MIM
 
 **Visualisations:**
 - Pie chart: Delirium incidence in ARDS patients.
-- Box plots: Age and ICU length of stay by delirium status.
+- Histogram: Propofol Infusion Duration.
+- Box plots: Age, ICU length of stay, Propofol Duration by delirium status.
 - Scatter plots: Propofol duration vs. APACHE III score.
 
 **Interpretation:**
