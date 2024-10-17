@@ -7,7 +7,7 @@
 **Brief Overview:**
 This descriptive analysis project is part of a larger study that investigates the association between the duration of propofol infusion and the incidence of delirium in ICU patients suffering from Acute Respiratory Distress Syndrome (ARDS). This project includes the key variables related to the study and provides visualisations and statistical insights into the factors influencing delirium risk.
 
-The larger study is an assessment for a course at NUS Saw Swee Hock School of Public Health (SSHSPH), which aims to explore the factors contributing to delirium among ICU patients and to understand if the duration of propofol, a common sedative, plays a significant role in the development of delirium, particularly in ARDS patients.
+The larger study is an assessment for a post-graduate course at NUS Saw Swee Hock School of Public Health (SSHSPH), which aims to explore the factors contributing to delirium among ICU patients and to understand if the duration of propofol, a common sedative, plays a significant role in the development of delirium, particularly in ARDS patients.
 
 The repository for the larger study is available at https://github.com/xuqianyi/SPH5104
 
