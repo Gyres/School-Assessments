@@ -1,4 +1,4 @@
-# Study: Propofol and Delirium in ARDS ICU Patients
+# Descriptive Analysis for Study: Propofol and Delirium in ARDS ICU Patients
 
 #### Date: 2024-04-14
 
