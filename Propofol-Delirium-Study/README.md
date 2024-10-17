@@ -61,6 +61,7 @@ install.packages(c("tidyverse", "skimr", "ggplot2"))
 
 ## Data
 **Data Sources:**
+
 The dataset, `cohort_w_confounders.csv`, was extracted and modified from the MIMIC-IV relational database using SQL queries.
 
 **Data Description:**
@@ -94,6 +95,7 @@ The dataset, `cohort_w_confounders.csv`, was extracted and modified from the MIM
 - Scatter plots: Propofol duration vs. APACHE III score.
 
 **Interpretation:**
+
 The findings suggest that while propofol duration correlates with delirium, other factors such as age and illness severity also contribute to this risk, indicating the need for comprehensive sedation protocols.
 
 ## Project Structure
