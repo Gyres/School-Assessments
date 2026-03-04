@@ -13,8 +13,7 @@ This repository contains projects completed as part of coursework at school. Eac
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Project Structure](#project-structure)
-7. [License](#license)
-8. [Contact Information](#contact-information)
+7. [Contact Information](#contact-information)
 
 ---
 
