@@ -1,55 +1,7 @@
 # School Assessments
 
 ## Introduction
-This repository contains projects completed as part of coursework at school. Each project showcases different data analysis skills using R and R Markdown, focusing on statistical insights and visualizations.
-
-**Projects Included:**
-1. Descriptive Analysis for Study: Propofol and Delirium in ARDS ICU Patients
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Projects](#projects)
-    - [Descriptive Analysis for Study: Propofol and Delirium in ARDS ICU Patients](#descriptive-analysis-for-study-propofol-and-delirium-in-ards-icu-patients)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Contact Information](#contact-information)
-
----
-
-## Projects
-### Descriptive Analysis for Study: Propofol and Delirium in ARDS ICU Patients
-**Folder:** `Propofol-Delirium-Study`
-
-**Overview:**
-
-This project is part of a larger study investigating the association between the duration of propofol infusion and the incidence of delirium in ICU patients suffering from Acute Respiratory Distress Syndrome (ARDS). The analysis includes key variables related to the study and provides visualizations and statistical insights into factors influencing delirium risk.
-
-**Objectives:**
-- Determine the relationship between the duration of propofol use and delirium incidence.
-- Assess whether other factors, such as age and ICU stay length, influence delirium rates.
-
-**Instructions:**
-- Navigate to the [Propofol-Delirium-Study](Propofol-Delirium-Study) folder.
-- Follow the instructions in the project's README.
-
----
-
-## Installation
-**Prerequisites:**
-- R: Version 4.0 or later
-- RStudio
-
-**General Dependencies:**
-
-Each project utilizes various R packages for data analysis and visualization.
-
-Install packages using:
-```r
-install.packages(c("tidyverse", "skimr", "ggplot2"))
-```
-
-**Note:** Please refer to each project's README for specific dependencies and installation instructions.
+This repository contains projects completed as part of coursework at school. Each project showcases different data analysis skills, focusing on statistical insights and visualizations.
 
 ## Usage
 **Instructions:**
@@ -65,19 +17,6 @@ install.packages(c("tidyverse", "skimr", "ggplot2"))
     - Open the `.Rmd` file in RStudio.
     - Install any missing packages if prompted.
     - Run the code chunks sequentially or knit the document to generate the report.
-
-## Project Structure
-
-```bash
-Job-Assessments/
-│
-├── Propofol-Delirium-Study/
-│   ├── Descriptive-Analysis-Propofol-Delirium.Rmd
-│   ├── Descriptive-Analysis-Propofol-Delirium.md
-│   └── README.md
-│
-└── README.md  # This file
-```
 
 ## Contact Information
 **Author:** Ou Yang Yu
