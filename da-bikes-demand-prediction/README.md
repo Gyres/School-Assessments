@@ -18,7 +18,7 @@ Shared-bike operators need to anticipate daily rental demand so they can plan fl
 
 ## Dataset
 ### Source
-- Course-provided dataset stored in the repository as `Shared-Bikes-Demand-Dataset.csv`. :contentReference[oaicite:1]{index=1}
+- Course-provided dataset stored in the repository as `Shared-Bikes-Demand-Dataset.csv`.
 
 ### Description
 - **Number of rows:** 730 daily observations
@@ -55,7 +55,7 @@ school-assessments/
     └── bikes-demand-prediction.ipynb
 ```
 
-The repository currently contains a README file, the dataset CSV, and the notebook used for the analysis. :contentReference[oaicite:2]{index=2}
+The repository currently contains a README file, the dataset CSV, and the notebook used for the analysis.
 
 ## How to Run
 1. Clone the repository:
