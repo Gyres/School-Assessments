@@ -123,12 +123,6 @@ school-assessments/
 ## Visualisations / Outputs
 Refer to `airline-passenger-clustering.ipynb`.
 
-```markdown
-![Cluster Size Bar Chart](images/cluster-size-bar-chart.png)
-![PCA Cluster Visualisation](images/pca-clusters.png)
-![Correlation Heatmap](images/correlation-heatmap.png)
-```
-
 ## Business Insights and Recommendations
 - **Retain high-value satisfied passengers:** Clusters 3 and 4 represent highly satisfied travellers, many of whom are loyal and business-oriented. Loyalty perks, upgrades, and personalised promotions can help retain them.
 - **Improve onboard service for loyal but dissatisfied passengers:** Cluster 2 highlights an opportunity to improve leg room, baggage handling, entertainment, and inflight service for customers who already fly repeatedly with the airline.
