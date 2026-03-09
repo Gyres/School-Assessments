@@ -129,7 +129,7 @@ Refer to `01_data_preprocessing_health_courses.ipynb` and `02_eda_and_rating_pre
 - Improve feature engineering around subsidy levels, provider reputation, and course categories.
 - Package the workflow into reusable scripts and add a `requirements.txt` file for easier reproducibility.
 
-## Academic Integrity Note
+## License
 This repository is shared for portfolio purposes only.
 
 Please do not copy, submit, or present this work as your own academic assignment.
