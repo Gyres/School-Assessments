@@ -6,7 +6,7 @@ This project analyses daily shared-bike rental demand using Python and linear re
 - **Institution:** Singapore University of Social Sciences (SUSS)
 - **Project Type:** Group
 - **Academic Term:** Jan 2025
-- **Status:** Completed :contentReference[oaicite:0]{index=0}
+- **Status:** Completed
 
 ## Problem Statement
 Shared-bike operators need to anticipate daily rental demand so they can plan fleet availability, improve service reliability, and better understand what drives customer usage. This project explores whether temporal and weather-related variables can explain changes in daily bike demand, and uses multiple linear regression to quantify those relationships.
