@@ -64,7 +64,7 @@ school-assessments/
 └── ml-course-rating-predictor/
     ├── 01_data_preprocessing_health_courses.ipynb   # Data loading, cleaning, and preprocessing
     ├── 02_eda_and_rating_prediction_model.ipynb     # EDA, feature engineering, and modelling
-    ├── AIB504_GBA_v1.docx                           # Written report for the assignment
+    ├── SSG_Healthcare_Courses_Dataset.csv           # Dataset
     └── README.md                                    # Project documentation
 ```
 
