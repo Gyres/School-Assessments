@@ -145,7 +145,7 @@ Refer to `airline-passenger-clustering.ipynb` for visualisations and outputs.
 - Use A/B testing or causal analysis to validate which service improvements have the greatest impact.
 - Export notebook charts into an `images/` folder to improve GitHub presentation.
 
-## Note
+## License
 This repository is shared for portfolio purposes only.
 
 Please do not copy, reuse, or submit this work as your own academic assignment.
