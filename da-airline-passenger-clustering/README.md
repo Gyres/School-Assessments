@@ -4,6 +4,7 @@ This project analyses airline passenger satisfaction data to uncover the key fac
 
 ## Project Overview
 - **Institution:** Singapore University of Social Sciences (SUSS)
+- **Project Type:** Individual
 - **Academic Term:** Jan 2025
 - **Status:** Completed
 
@@ -121,7 +122,7 @@ school-assessments/
 - **Cluster 5:** Smallest cluster, characterised by extremely high departure and arrival delays.
 
 ## Visualisations / Outputs
-Refer to `airline-passenger-clustering.ipynb`.
+Refer to `airline-passenger-clustering.ipynb` for visualisations and outputs.
 
 ## Business Insights and Recommendations
 - **Retain high-value satisfied passengers:** Clusters 3 and 4 represent highly satisfied travellers, many of whom are loyal and business-oriented. Loyalty perks, upgrades, and personalised promotions can help retain them.
