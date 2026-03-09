@@ -133,7 +133,7 @@ Refer to `nlp-sroi-reports.ipynb` for visualisations and outputs.
 - Build a more robust extraction module that can handle varied SROI formatting and terminology.
 - Develop an interactive dashboard or reporting interface for stakeholders to explore report comparisons visually.
 
-## Academic Integrity Note
+## License
 This repository is shared for portfolio purposes only.
 
 Please do not copy, reproduce, or submit this work as your own academic assignment.
