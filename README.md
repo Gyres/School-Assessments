@@ -81,6 +81,6 @@ Unless otherwise stated in a project folder, the materials in this repository ar
 
 ## Contact
 
-**Ou Yang Yu**  
-**GitHub:** https://github.com/Gyres
-**Linktree:** https://linktr.ee/yuouyang
+- **Name:** Ou Yang Yu
+- **GitHub:** https://github.com/Gyres
+- **Linktree:** https://linktr.ee/yuouyang
