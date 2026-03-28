@@ -60,7 +60,7 @@ The repository currently contains a README file, the dataset CSV, and the notebo
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gyres/school-assessments.git
+   git clone https://github.com/gyres/school-assessments.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -109,5 +109,5 @@ Please do not copy, reuse, or submit this work as your own academic assignment.
 
 ## Contact
 - **Name:** Ou Yang Yu
-- **GitHub:** [Gyres](https://github.com/Gyres)
+- **GitHub:** https://github.com/gyres
 - **Linktree:** https://linktr.ee/yuouyang
