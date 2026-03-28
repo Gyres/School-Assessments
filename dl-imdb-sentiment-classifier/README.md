@@ -64,7 +64,7 @@ school-assessments/
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gyres/school-assessments.git
+   git clone https://github.com/gyres/school-assessments.git
    cd school-assessments/dl-imdb-sentiment-classifier
    ```
 
@@ -130,5 +130,5 @@ Please do not copy, reuse, or submit this work as your own academic assignment.
 
 ## Contact
 - **Name:** Ou Yang Yu
-- **GitHub:** https://github.com/Gyres
+- **GitHub:** https://github.com/gyres
 - **Linktree:** https://linktr.ee/yuouyang
