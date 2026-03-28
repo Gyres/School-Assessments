@@ -59,7 +59,7 @@ The individual project READMEs describe each folder’s dataset, methodology, re
 
 1. Clone the repository.
 
-       git clone https://github.com/Gyres/school-assessments.git
+       git clone https://github.com/gyres/school-assessments.git
 
 2. Navigate into any project folder of interest.
 
@@ -82,5 +82,5 @@ Unless otherwise stated in a project folder, the materials in this repository ar
 ## Contact
 
 - **Name:** Ou Yang Yu
-- **GitHub:** https://github.com/Gyres
+- **GitHub:** https://github.com/gyres
 - **Linktree:** https://linktr.ee/yuouyang
