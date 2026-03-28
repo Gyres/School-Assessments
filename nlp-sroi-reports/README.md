@@ -140,5 +140,5 @@ Please do not copy, reproduce, or submit this work as your own academic assignme
 
 ## Contact
 - **Name:** Ou Yang Yu
-- **GitHub:** https://github.com/Gyres
+- **GitHub:** https://github.com/gyres
 - **Linktree:** https://linktr.ee/yuouyang
